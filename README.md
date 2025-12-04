@@ -9,7 +9,8 @@ here is a Invetory system that is fully configured.
 
 **Buy From Gumroad** - https://saimusick.gumroad.com/l/unyvze
 
-````markdown
+VIDEO TUTORIAL: https://youtu.be/SMaSVCIRog0
+````🔥 Main Features
 # Advanced Drug Production System for MTA:SA
 
 A custom-made, immersive, and optimized drug production script designed for MTA:SA roleplay servers.  
