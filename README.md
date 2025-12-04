@@ -1,4 +1,6 @@
 #🌿 Advanced Drug Production System for MTA:SA
+<img width="1000" height="1000" alt="logo" src="https://github.com/user-attachments/assets/1e502783-5eb0-47f5-8fc0-89829f6ba5a7" />
+
 ---
 For using this You need some inventory system . . .
 here is a Invetory system that is fully configured.
@@ -25,6 +27,7 @@ This system focuses on realism, smooth interaction, and expandable configuration
   - Black money
   - Item-based rewards
 - Fully configurable in settings.
+<img width="1920" height="1080" alt="dealer" src="https://github.com/user-attachments/assets/648ced31-af32-48b4-805c-9936c859ee23" />
 
 ### 2. Cocaine Plantation System
 - Plant cocaine seeds in allowed areas.
@@ -32,16 +35,19 @@ This system focuses on realism, smooth interaction, and expandable configuration
 - Includes growth stages with visual representation.
 - Harvest system once the plant is mature.
 - Optimized for performance to avoid lag.
+<img width="1920" height="1080" alt="pot" src="https://github.com/user-attachments/assets/b8afe635-af94-45c3-a692-afd963a7c149" />
 
 ### 3. Custom Nokia-Themed Phone UI
 - In-game illegal dealer contact system.
 - Old-school Nokia UI style.
 - Clean and immersive for roleplay environments.
+<img width="1920" height="1080" alt="phone" src="https://github.com/user-attachments/assets/65ea3c69-754b-4d05-9591-ee1fcb781481" />
 
 ### 4. Custom Items and Configuration Support
 - Allows buying and using custom items defined in configuration.
 - Easily extendable to add new drug types, seeds, or tools.
 - Compatible with external inventory systems.
+<img width="1920" height="1080" alt="Untitled" src="https://github.com/user-attachments/assets/5ca636bf-a1dc-4bc9-8af6-8ab04699a11d" />
 
 ## Current Progress
 - Cocaine plantation is fully implemented.
