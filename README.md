@@ -1,4 +1,8 @@
-#🌿 Advanced Drug Production System for MTA:SA
+
+# Advanced Drug Production System for MTA:SA
+
+---
+
 <img width="1000" height="1000" alt="logo" src="https://github.com/user-attachments/assets/1e502783-5eb0-47f5-8fc0-89829f6ba5a7" />
 
 ---
