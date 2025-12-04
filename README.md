@@ -85,15 +85,3 @@ Designed for immersive and high-quality roleplay experiences in MTA:SA.
 * Do not re-upload or resell this resource.
 * Modifications are allowed only for personal server use.
 
-```
-
----
-
-If you want, I can also add:
-- A changelog section  
-- Version badge  
-- Preview images section  
-- License block (MIT, GPL, custom)  
-
-Just tell me!
-```
