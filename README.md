@@ -13,7 +13,7 @@ here is a Invetory system that is fully configured.
 
 **Join our Discord server to Buy this script** - https://discord.gg/C6yGdAEWEa 
 
-**Buy From Gumroad** - https://saimusick.gumroad.com/l/unyvze
+**Buy From Gumroad** - https://saimusick.gumroad.com/l/zkhfco
 
 VIDEO TUTORIAL: https://youtu.be/SMaSVCIRog0
 🔥 Main Features
