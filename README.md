@@ -11,9 +11,9 @@ here is a Invetory system that is fully configured.
 
 **INVENTORY ADDON:** - https://github.com/sairamkishan300/MTA-SA-INVENTORY-AND-SHOP-SYSTEM
 
-**Join our Discord server to Buy this script** - https://discord.gg/C6yGdAEWEa 
+**Join our Discord server FOR MORE** - https://discord.gg/C6yGdAEWEa 
 
-**Buy From Gumroad** - https://saimusick.gumroad.com/l/zkhfco
+**DOWNLOAD FOR FREE From Gumroad** - https://saimusick.gumroad.com/l/zkhfco
 
 VIDEO TUTORIAL: https://youtu.be/SMaSVCIRog0
 🔥 Main Features
